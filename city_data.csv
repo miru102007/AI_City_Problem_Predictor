@@ -1,4 +1,4 @@
-rainfall,traffic,road_age,complaints,maintenance_gap,problem
+rainfall,traffic,road_age,complaints,maintenance_gap,risk_label
 120,90,8,15,12,1
 100,85,10,18,15,1
 20,30,2,2,3,0
