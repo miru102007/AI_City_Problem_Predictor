@@ -1,12 +1,1 @@
-AI City Problem Predictor - Setup
 
-1. Download app.py from ChatGPT.
-2. In VS Code, open your existing AI_City_Problem_Predictor folder.
-3. Make a backup of your current app.py (for example, app_old.py).
-4. Copy the downloaded app.py into the project folder and replace the old app.py.
-5. Keep city_model.pkl, city_data.csv, and train_model.py in the same folder.
-6. Open VS Code Terminal (Terminal > New Terminal).
-7. Run: python app.py
-8. Open http://localhost:8000 in your browser.
-
-If port 8000 is already in use, stop the old server with Ctrl+C before running again.
